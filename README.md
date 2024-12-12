@@ -35,9 +35,7 @@
 <br>
 <br>
 
-### 🔗 &nbsp;Currently working on
-
-[![project-react](https://svg.bookmark.style/api?url=https://github.com/itzaur/project-react&mode=dark&style=horizontal)](https://github.com/itzaur/project-react)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzaur&color=edae49&area=true&title_color=d3755e&bg_color=373f51&line=ebcfb2&point=c5715d&theme=noctis-minimus&custom_title=itzaur%20activity%20graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
