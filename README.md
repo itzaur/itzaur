@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cartograph+Mono+CF&size=22&duration=1&pause=10000&vCenter=true&color=c5715d&repeat=false&width=215&height=30&lines=Hello,+I’m+Pavel)](https://git.io/typing-svg)
 <img src="./assets/Hand%20Wave.gif" height='40' width='40' alt="Hello"/>
 
-## <img src="./assets/flame1.gif" width=25 align="bottom"> &nbsp;Tech Stack
+## <img src="./assets/flame1.gif" width=25 align="bottom">&nbsp;Tech Stack
 
 <img align="right" width="100" height="100" style="height: 14em; display: inline-block;" src="./assets/empty.png" alt="image" />
 <img align="right" width="100" height="100" style="height: 14em; display: inline-block;" src="./assets/empty.png" alt="image" />
