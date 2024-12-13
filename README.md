@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cartograph+Mono+CF&size=22&duration=1&pause=10000&vCenter=true&color=c5715d&repeat=false&width=215&height=30&lines=Hello,+I’m+Pavel)](https://git.io/typing-svg)
 <img src="./assets/Hand%20Wave.gif" height='40' width='40' alt="Hello"/>
 
-### 🛠 &nbsp;Tech Stack 🛠
+## <img src="./assets/flame1.gif" width=25 align="bottom"> &nbsp;Tech Stack
 
 <img align="right" width="100" height="100" style="height: 14em; display: inline-block;" src="./assets/empty.png" alt="image" />
 <img align="right" width="100" height="100" style="height: 14em; display: inline-block;" src="./assets/empty.png" alt="image" />
@@ -35,11 +35,11 @@
 <br>
 <br>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzaur&color=edae49&area=true&title_color=d3755e&bg_color=373f51&line=ebcfb2&point=c5715d&theme=noctis-minimus&custom_title=itzaur%20activity%20graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### ⚙️ &nbsp;GitHub Analytics
+## <img src="./assets/flame2.gif" width=22 align="bottom">&nbsp;GitHub Analytics
 
 <div align="center">
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzaur&color=edae49&area=true&title_color=d3755e&bg_color=373f51&line=ebcfb2&point=c5715d&theme=noctis-minimus&custom_title=Pavel's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itzaur&theme=calm&show_icons=true&include_all_commits=true&count_private=true" />
 
@@ -47,9 +47,17 @@
 
 </div>
 
+## <img src="./assets/flame3.gif" width=25 align="bottom">&nbsp;Listening
+
 <div align="center">
 
-### 🤝🏻 ${\textsf{\color{#c5715d}Contact}}$ 🤝🏻
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=heurt&bg_color=373f51&footer_style=none&header_style=compact_stats_only&width=400&count=3&show_user=always&loved=true)
+
+</div>
+
+<div align="center">
+
+## 🤝🏻 ${\textsf{\color{#c5715d}Contact}}$ 🤝🏻
 
 </div>
 
