@@ -55,7 +55,7 @@
 
 </div>
 
-## <img src="./assets/flame4.gif" width=25 align="bottom" alt='flame'>&nbsp;My octocats
+## <img src="./assets/flame4.gif" width=22 align="bottom" alt='flame'>&nbsp;My octocats
 
 <table>
     <tr>
