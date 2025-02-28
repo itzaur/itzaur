@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cartograph+Mono+CF&size=22&duration=1&pause=10000&vCenter=true&color=c5715d&repeat=false&width=215&height=30&lines=Hello,+I’m+Pavel)](https://git.io/typing-svg)
 <img src="./assets/Hand%20Wave.gif" height='40' width='40' alt="Hello"/>
 
-## <img src="./assets/flame1.gif" width=25 align="bottom">&nbsp;Tech Stack
+## <img src="./assets/flame1.gif" width=25 align="bottom" alt="flame">&nbsp;Tech Stack
 
 <img align="right" width="100" height="100" style="height: 14em; display: inline-block;" src="./assets/empty.png" alt="image" />
 <img align="right" width="100" height="100" style="height: 14em; display: inline-block;" src="./assets/empty.png" alt="image" />
@@ -35,7 +35,7 @@
 <br>
 <br>
 
-## <img src="./assets/flame2.gif" width=22 align="bottom">&nbsp;GitHub Analytics
+## <img src="./assets/flame2.gif" width=22 align="bottom" alt="flame">&nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -47,13 +47,24 @@
 
 </div>
 
-## <img src="./assets/flame3.gif" width=25 align="bottom">&nbsp;Listening
+## <img src="./assets/flame3.gif" width=25 align="bottom" alt="flame">&nbsp;Listening
 
 <div align="center">
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=heurt&bg_color=373f51&footer_style=none&header_style=compact_stats_only&width=400&count=3&show_user=always&loved=true)
 
 </div>
+
+## <img src="./assets/flame4.gif" width=25 align="bottom" alt='flame'>&nbsp;My octocats
+
+<table>
+    <tr>
+        <td align="center"><img src="./assets/beheadedoctocat.gif" height=480 width='100%'/><br/>
+        <b>Beheadedoctocat</b>
+        <br/></td>
+        <td align="center"><img src="./assets/sekiroctocat.gif" height=480 width='100%'/><br/><b>Sekiroctocat</b><br/></td>
+    </tr>
+</table>
 
 <div align="center">
 
