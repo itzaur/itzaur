@@ -57,7 +57,7 @@
 
 ## <img src="./assets/flame4.gif" width=22 align="bottom" alt='flame'>&nbsp;My octocats
 
-| <img src="assets/beheadedoctocat.gif" width="400"> | <img src="assets/sekiroctocat.gif" width="400"> |
+| <img src="assets/beheadedoctocat.gif" width="380"> | <img src="assets/sekiroctocat.gif" width="380"> |
 | :------------------------------------------------: | :---------------------------------------------: |
 |             **Name:** Beheadedoctocat              |             **Name:** Sekiroctocat              |
 
