@@ -57,14 +57,9 @@
 
 ## <img src="./assets/flame4.gif" width=22 align="bottom" alt='flame'>&nbsp;My octocats
 
-<table>
-    <tr>
-        <td align="center"><img src="./assets/beheadedoctocat.gif" height=480 width='100%'/><br/>
-        <b>Beheadedoctocat</b>
-        <br/></td>
-        <td align="center"><img src="./assets/sekiroctocat.gif" height=480 width='100%'/><br/><b>Sekiroctocat</b><br/></td>
-    </tr>
-</table>
+| <img src="assets/beheadedoctocat.gif" width="400"> | <img src="assets/sekiroctocat.gif" width="400"> |
+| :------------------------------------------------: | :---------------------------------------------: |
+|             **Name:** Beheadedoctocat              |             **Name:** Sekiroctocat              |
 
 <div align="center">
 
@@ -90,4 +85,6 @@
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="150" src="https://komarev.com/ghpvc/?username=itzaur&color=e07a5f&style=flat&label=PROFILE+VIEWS" alt='counter'>
     </a>
+</div>
+
 </div>
