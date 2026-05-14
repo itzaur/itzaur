@@ -41,9 +41,9 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzaur&color=edae49&area=true&title_color=d3755e&bg_color=373f51&line=ebcfb2&point=c5715d&theme=noctis-minimus&custom_title=Pavel's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itzaur&theme=calm&show_icons=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=itzaur&theme=calm&show_icons=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzaur&theme=calm&layout=compact&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itzaur&theme=calm&layout=compact&langs_count=8" />
 
 </div>
 
